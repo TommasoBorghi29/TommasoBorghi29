@@ -7,7 +7,8 @@ Passionate about technology, clean code, and building smart solutions.
 
 🔧 My tools of choice include:
 
-- Languages: `ANSI C`, `C`, `Python`, `HTML`, `CSS`, `JavaScript`, `TypeScript`
+- Languages I know: `ANSI C`, `Python`, `HTML`, `CSS`, `JavaScript`
+- Languages I am learning: `C`, `TypeScript`
 - Frameworks & Tools: `React`, `Vite`
 - Tech stuff I enjoy: building intuitive UIs, automation, clean architectures, and solving real-world problems with code.
 
